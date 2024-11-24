@@ -2,10 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arailymvinted.github.io/en/</loc>
+    <loc>http://localhost:1313/en/tags/about/</loc>
+    <lastmod>2024-11-24T15:28:42+02:00</lastmod>
   </url><url>
-    <loc>https://arailymvinted.github.io/en/categories/</loc>
+    <loc>http://localhost:1313/en/page/about/</loc>
+    <lastmod>2024-11-24T15:28:42+02:00</lastmod>
   </url><url>
-    <loc>https://arailymvinted.github.io/en/tags/</loc>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2024-11-24T15:28:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/me/</loc>
+    <lastmod>2024-11-24T15:28:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/page/</loc>
+    <lastmod>2024-11-24T15:28:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2024-11-24T15:28:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/blog/</loc>
+    <lastmod>2024-11-24T15:28:07+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/</loc>
+    <lastmod>2024-11-24T15:28:07+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/hello/</loc>
+    <lastmod>2024-11-24T15:28:07+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/hello_world/</loc>
+    <lastmod>2024-11-24T15:28:07+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/categories/</loc>
   </url>
 </urlset>
