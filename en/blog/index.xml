@@ -13,7 +13,7 @@
       <link>http://localhost:1313/en/blog/hello_world/</link>
       <pubDate>Sun, 24 Nov 2024 15:28:07 +0200</pubDate>
       <guid>http://localhost:1313/en/blog/hello_world/</guid>
-      <description>Hello mate, howdy?</description>
+      <description>Hello mate, howdy? Hello World code written in Python:&#xA;def hello_world(): print(&amp;#34;Hello, world!&amp;#34;) </description>
     </item>
   </channel>
 </rss>
